@@ -10,7 +10,7 @@ If you think that there is something missing, let us know by [raising an issue](
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 ### Colour
-Blue: [Pantone 2174-C](https://www.pantone.com/color-finder/2174-C) // #0076CE // cmyk(94,43,0,0) //  rgb(0,118,206)
+**Blue:** [Pantone 2174-C](https://www.pantone.com/color-finder/2174-C) // #0076CE // cmyk(94,43,0,0) //  rgb(0,118,206)
 
 ### Imagery types
 Traditional imagery in this area is boring. Try to avoid wherever possible the use of any stereotypical/stock looking business or connectivity imagery. Try to use high quality, good resolution, well composed, natural looking images from sources like [unsplash.com](https://unsplash.com/search/puppies) . Try to use images of the world we want to create; Images that people having a good life might see, from beautiful scenery to cool looking offices and comfortable homes.
@@ -22,7 +22,7 @@ You can grab the main logo files from the [logofiles folder](/logofiles).
 
 General guidelines:
 * Use vectors where possible
-* Don't distort the logo... ever.
+* Don't distort the logo... ever
 
 Positioning the logo can be a bit tricky. Some tips:
 * Keep a lot of whitespace around it
@@ -36,4 +36,4 @@ Positioning the logo can be a bit tricky. Some tips:
 * Speak plainly and intelligently
 * Be forward thinking, but not head in the clouds
 * Talk about a realistic world we can help build with our technology
-* Be positive in language. If you have to criticise a system, focus on about how it can be made better, not only that it is bad.
+* Be positive in language. If you have to criticise a system, focus on about how it can be made better, not only that it is bad
