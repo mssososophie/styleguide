@@ -14,7 +14,7 @@ Blue: [Pantone 2174-C](https://www.pantone.com/color-finder/2174-C) // #0076CE /
 ### Imagery types
 Traditional imagery in this area is boring. Try to avoid wherever possible the use of any stereotypical/stock looking business or connectivity imagery. Try to use high quality, well composed, natural looking images. Try to use images of the world we want to create; Images that people having a good life might see, from beautiful scenery to cool looking offices and comfortable homes.
 
-Because connectivity can be difficult to envision (or not interesting to look at), use of metaphorical imagery (eg 'freedom' = person standing in open space // 'fast' = light trails or lightening ), or look at what people can do with our services (Drones, invention, watch a movie together etc).
+Because connectivity can be difficult to envision (or not interesting to look at), use of metaphorical imagery (eg *'freedom'* = person standing in open space // *'fast'* = light trails or lightening ), or look at what people can do with our services (Drones, invention, watch a movie together etc).
 
 ### Logo
 You can grab the main logo files from the [logofiles folder](/logofiles).
@@ -29,7 +29,7 @@ Positioning the logo can be a bit tricky. Some tips:
 * If you are just centring the mark (the star) without the text, centre the tip of the star - don't just centre align the image
 
 ### Language
-* *Always evoke a feeling of stability / improvement over everything else.* Customers trust us to manage one of the core foundations of their business - we need to ensure they know we take this responsibility seriously and that they can rely on us to do so.
+* **Always evoke a feeling of stability / improvement over everything else.** Customers trust us to manage one of the core foundations of their business - we need to ensure they know we take this responsibility seriously and that they can rely on us to do so.
 * Speak plainly and intelligently
 * Be forward thinking, but not head in the clouds
 * Talk about a realistic world we can help build with our technology
