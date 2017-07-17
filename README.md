@@ -6,7 +6,7 @@ If you think that there is something missing, let us know by [raising an issue](
 ## Style
 
 ### Font
-Open Sans font
+[Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 ### Colour
 Blue: [Pantone 2174-C](https://www.pantone.com/color-finder/2174-C) // #0076CE // cmyk(94,43,0,0) //  rgb(0,118,206)
@@ -19,11 +19,14 @@ Because connectivity can be difficult to envision (or not interesting to look at
 ### Logo
 You can grab the main logo files from the [logofiles folder](/logofiles).
 
-I'm sorry about the logo - it is a bit of a nightmare to position. Some tips:
+General guidelines:
+* Use vectors where possible
+
+Positioning the logo can be a bit tricky. Some tips:
 * Keep a lot of whitespace around it
 * Be careful if you centre it - you tend to need to move it left of centre a little to keep it balanced (due to tail of star)
-* It tends to look good when used white over coloured backgrounds / imagery provided it is visible.
-* Use vectors where possible
+* It tends to look good when used white over coloured backgrounds / imagery provided it is visible
+* If you are just centring the mark (the star) without the text, centre the tip of the star - don't just centre align the image
 
 ### Language
 * *Always evoke a feeling of stability / improvement over everything else.* Customers trust us to manage one of the core foundations of their business - we need to ensure they know we take this responsibility seriously and that they can rely on us to do so.
