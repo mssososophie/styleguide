@@ -1,7 +1,7 @@
 # Telcom Styleguide
 This guide is a set of standards that should be used in how we as a company communicate to one another and to the public. This guide is likely to continuously change so please be sure to refer back to it regularly.
 
-If you think that there is something missing, let us know by [raising an issue](https://github.com/telcomuk/handbook/issues) (for the geeks) or emailing [hr@telcom.io](mailto:hr@telcom.io).
+If you think that there is something missing, let us know by [raising an issue](https://github.com/telcomuk/styleguide/issues) (for the geeks) or emailing [hr@telcom.io](mailto:hr@telcom.io).
 
 
 ## Style
